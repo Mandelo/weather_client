@@ -1,2 +1,2 @@
 # weather_client
-webservice test
+webservice helloworld
